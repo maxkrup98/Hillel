@@ -15,3 +15,13 @@
 *.bin
 
 *.obj
+
+*.csproj
+
+*/bin
+
+*/obj
+
+*.sln
+
+*.vs
